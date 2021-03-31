@@ -23,18 +23,18 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% if site.email %}
-          <i class="fas fa-envelope"></i>
-            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          <p><i class="fas fa-envelope"></i>
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
         {% endif %}
         
         {% if site.researchgate %}
-          <i class="fab fa-researchgate"></i>
-            <a href="https://researchgate.net/profile/{{ site.researchgate }}" target="_blank">{{ site.researchgate }}</a>
+          <p><i class="fab fa-researchgate"></i>
+            <a href="https://researchgate.net/profile/{{ site.researchgate }}" target="_blank">{{ ResearchGate }}</a></p>
         {% endif %}
         
         {% if site.linkedin %}
-          <i class="fab fa-linkedin"></i>
-            <a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank">{{ site.linkedin }}</a>
+          <p><i class="fab fa-linkedin"></i>
+            <a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank">{{ LinkedIn }}</a></a>
         {% endif %}
 
         {% if site.github.is_project_page %}
