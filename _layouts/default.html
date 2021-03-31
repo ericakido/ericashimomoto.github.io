@@ -19,6 +19,12 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        
+        {% if site.email %}
+          <li class="email"><i class="fas fa-envelope"></i>
+            <a href="mailto:{{ site.email }}">{{ sidebar.email }}</a>
+          </li>
+        {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
