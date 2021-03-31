@@ -19,14 +19,13 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-        
-        {% if site.email %}
-          <li class="email"><i class="fas fa-envelope"></i>
-            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-          </li>
-        {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        
+        {% if site.email %}
+          <i class="fas fa-envelope"></i>
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        {% endif %}
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
