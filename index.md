@@ -55,8 +55,7 @@ I also enjoy developing applications involving robotics and electronics.
 ## Work Experience
 - 2021.01: Technical Staff at [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2018 - 2020: Teaching Assistant at the University of Tsukuba for the following courses:
-
-Computer Science seminar (Master's, 2020).
+> Computer Science seminar (Master's, 2020).
 
 Image Recognition Engineering (Undergraduate, 2020).
 
