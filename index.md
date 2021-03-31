@@ -57,11 +57,11 @@ I also enjoy developing applications involving robotics and electronics.
 - 2018 - 2020: Teaching Assistant at the University of Tsukuba for the following courses:
 > Computer Science seminar (Master's, 2020).
 
-Image Recognition Engineering (Undergraduate, 2020).
+> Image Recognition Engineering (Undergraduate, 2020).
 
-Computer Science midterm presentation and seminar (Master's, 2019).
+> Computer Science midterm presentation and seminar (Master's, 2019).
  
-Image Recognition Engineering (Undergraduate, 2018).
+> Image Recognition Engineering (Undergraduate, 2018).
 
 - 2018.08 - 2018.10:  Research Assistant at the University of Tsukuba, in collaboration with the Center for Artificial Intelligence Research ([C-Air](https://air.tsukuba.ac.jp/en/)).
 - 2015 - 2016: Network protocol engineer at Samsung Institute of Informatics Amazonia ([SIDIA](https://www.sidia.com)).
