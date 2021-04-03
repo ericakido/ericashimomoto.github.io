@@ -4,7 +4,9 @@ e-mail: erica (at) cvlab.cs.tsukuba.ac.jp
 
 I am currently pursuing my Doctorate degree (3rd year) at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/) advised by Dr. [Kazuhiro Fukui](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/indexE.html). I am a member of the [Computer Vision Laboratory](https://home.cvlab.cs.tsukuba.ac.jp). 
 
-My research topics invole natural language processing, computer vision and pattern recognition. More specifically, my main line of study is the investigation of subspace based-methods and its applications on word embedding.
+My research topics involve natural language processing, computer vision and pattern recognition. More specifically, my main line of study is the investigation of subspace based-methods and its applications on word embedding. 
+
+I love seeing computers doing human jobs really well. However, I am even more interested in understanding how they can do such jobs so well. If you cannot understand it, how can you trust it?
 
 I also enjoy developing applications involving robotics and electronics.
 
