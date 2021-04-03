@@ -69,6 +69,6 @@ I also enjoy developing applications involving robotics and electronics.
 
 - 2018.08 - 2018.10:  Research Assistant at the University of Tsukuba, in collaboration with the Center for Artificial Intelligence Research ([C-Air](https://air.tsukuba.ac.jp/en/)).
 - 2015 - 2016: Network protocol engineer at Samsung Institute of Informatics Amazonia ([SIDIA](https://www.sidia.com)).
-2015 - 2016: Associate researcher at Innovation Center in Control and Automation (CICARI).
-2013 - 2014: Research and development intern at Envision Industry of Electronic Products LTDA.
-2009 - 2012:  Grantee in the research program PAIC at the Amazonas State University.
+- 2015 - 2016: Associate researcher at Innovation Center in Control and Automation (CICARI).
+- 2013 - 2014: Research and development intern at Envision Industry of Electronic Products LTDA.
+- 2009 - 2012:  Grantee in the research program PAIC at the Amazonas State University.
