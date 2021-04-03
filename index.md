@@ -53,7 +53,8 @@ I also enjoy developing applications involving robotics and electronics.
 - 2012 - 2013: One year sandwich undergraduate student. [University of California, Berkeley](https://www.berkeley.edu), USA. Electrical Engineering and Computer Science Department.
 
 ## Work Experience
-- 2021.01: Technical Staff at [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
+- 2021.04 - Current: Research Assistant at [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
+- 2021.01 - 2021.03: Technical Staff at [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2018 - 2020: Teaching Assistant at the University of Tsukuba for the following courses:
 >
 > Computer Science seminar (Master's, 2020).
