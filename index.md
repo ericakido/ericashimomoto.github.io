@@ -86,7 +86,7 @@ I also enjoy developing applications involving robotics and electronics.
 - TOEFL IBT, 105 (2012)
 
 ## Mechatronics Projects [[top](#erica-kido-shimomoto)]
-As I studied Mechatronics from high school all the way to university, I used to play around with many projects for classes as well as personal projects. Unfortunately, I haven't been able to work on new ones since I joined my Master's, but I would be really glad to work again with mechatronics.
+I used to work on many mechatronics related projects for classes as well as personal projects. Unfortunately, I haven't been able to work on new ones since I joined my Master's, but I would be really glad to work again with mechatronics.
 
 ### Megumi - Face Recognition System for smartTVs - Envision (TPV), Brazil (2013-2014)
 - Creators: Erica K. Shimomoto, Ruan Belém (supervisor)
