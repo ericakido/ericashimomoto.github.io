@@ -37,8 +37,8 @@ I also enjoy developing applications involving robotics and electronics.
 - 2019 - Current: Doctorate degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
 - 2017 - 2019: Master's degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
 - 2016 - 2017: Research Student. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
-- 2009 - 2014:  Bachelor of Engineering. [Amazonas State University](http://www1.uea.edu.br), Brazil. Department of Control and Automation Engineering.
-- 2012 - 2013: One year sandwich undergraduate student. [University of California, Berkeley](https://www.berkeley.edu), USA. Electrical Engineering and Computer Science Department.
+- 2009 - 2014: Bachelor of Engineering. [Amazonas State University](http://www1.uea.edu.br), Brazil. Department of Control and Automation Engineering.
+- 2012 - 2013: One year undergraduate exchange student. [University of California, Berkeley](https://www.berkeley.edu), USA. Electrical Engineering and Computer Science Department.
 - 2006 - 2008: Technical course in Mechatronics. [Fundação Matias Machline (former Fundação Nokia de Ensino)](https://www.fundacaomatiasmachline.org.br/).
 
 ## Work Experience [[top](#erica-kido-shimomoto)]
