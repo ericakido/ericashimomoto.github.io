@@ -2,9 +2,9 @@
 
 e-mail: erica (at) cvlab.cs.tsukuba.ac.jp
 
-I am currently pursuing my Doctorate degree (3rd year) at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/) advised by Dr. [Kazuhiro Fukui](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/indexE.html). I am a member of the [Computer Vision Laboratory](https://home.cvlab.cs.tsukuba.ac.jp) at the University of Tsukuba, and a member of the [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/) at the AIST.
+I am a postdoctoral researcher at the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html), member of the [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/).
 
-My research topics involve natural language processing, computer vision and pattern recognition. More specifically, my main line of study is the investigation of subspace based-methods and its applications on word embedding. 
+My research topics involve natural language processing, computer vision and pattern recognition. More specifically, my main line of study is the investigation of subspace based-methods and its applications on word embedding. Recently, I have started to dive into the multimodal world, trying to develop less data-hungry model and/or reduce the such computational need of existing models.
 
 I love seeing computers doing human jobs really well. However, I am even more interested in understanding how they can do such jobs so well. If you cannot understand it, how can you trust it?
 
@@ -34,7 +34,7 @@ I also enjoy developing applications involving robotics and electronics.
 3. E Shimomoto, A Kimura, R Belém, A faster face detection method combining Bayesian and Haar Cascade Classifiers (Chilecon15). [[pdf](https://ieeexplore.ieee.org/document/7400344)][[pdf](https://www.researchgate.net/publication/304408380_A_faster_face_detection_method_combining_Bayesian_and_Haar_Cascade_Classifiers)]
 
 ## Education [[top](#erica-kido-shimomoto)]
-- 2019 - Current: Doctorate degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
+- 2019 - 2022: Doctorate degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
 - 2017 - 2019: Master's degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
 - 2016 - 2017: Research Student. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
 - 2009 - 2014: Bachelor of Engineering. [Amazonas State University](http://www1.uea.edu.br), Brazil. Department of Control and Automation Engineering.
@@ -42,7 +42,8 @@ I also enjoy developing applications involving robotics and electronics.
 - 2006 - 2008: Technical course in Mechatronics. [Fundação Matias Machline (former Fundação Nokia de Ensino)](https://www.fundacaomatiasmachline.org.br/).
 
 ## Work Experience [[top](#erica-kido-shimomoto)]
-- 2021.04 - Current: Research Assistant at [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
+- 2022.04 - current: Postdoctoral researcher at [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
+- 2021.04 - 2022.03: Research Assistant at [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2021.01 - 2021.03: Technical Staff at [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2018 - 2020: Teaching Assistant at the University of Tsukuba for the following classes:
 >
@@ -67,12 +68,14 @@ I also enjoy developing applications involving robotics and electronics.
 - Program chair for the [2020 UGA & UT Workshop](https://uga-ut-ws.github.io/index.html), a collaborative workshop between the University of Tsukuba (Japan) and the University of Grenoble-Alpes (France).
 
 ## Awards [[top](#erica-kido-shimomoto)]
-- Computer Science Special Award by the University of Tsukuba, for the organization of the [2020 UGA & UT Workshop](#academic-events-organization).
+- Dean award for research excellence by the University of Tsukuba, 2022, Japan.
+- Computer Science Special Award by the University of Tsukuba, for the organization of the [2021 CollaboTICS Workshop](#academic-events-organization), 2022, Japan.
+- Computer Science Special Award by the University of Tsukuba, for the organization of the [2020 UGA & UT Workshop](#academic-events-organization), 2021, Japan.
 - Best Poster Award for the paper titled ["News2meme: An Automatic Content Generator from News Based on Word Subspaces from Text and Image"](#international-conferences), at the IAPR MVA 2019, Japan.
 - FEBRACE (Brazilian Fair of Science and Engineering) award for the [second best project documentation](https://febrace.org.br/wp-content/uploads/2021/06/premiados2009.pdf) for the project titled [JALLE'S](#mechatronics-projects), at 7th [FEBRACE](https://febrace.org.br/), 2009, Brazil.
 
 ## Honors [[top](#erica-kido-shimomoto)]
-- MEXT Scholarship Awarded by the Japanese Government (2016 - current).
+- MEXT Scholarship Awarded by the Japanese Government (2016 - 2022).
 - National leader assistant of the Brazilian delegation in the [Ship for the World Youth Leaders](http://www.swyaabrasil.org) (SWY27) (2015).
 - Brazilian Government Science Without Borders Scholarship to study at the University of California in Berkeley, USA (2012-2013).
 - Research program PAIC grantee at the Amazonas State University, Brazil (2009-2012).
@@ -113,7 +116,7 @@ I used to work on many mechatronics related projects for classes as well as pers
 - Facilitator at the "Toward the realization of dreams through education and career" Workshop, Tsukuba, Japan (2017, 2018 and 2020 editions). Promoted discussion among Brazilian high school students about future education and career options. 
 
 ### Cultural activities
-- Regular member at the University of Tsukuba Tokimeki Taiko Juku [official website](taikojukutsukuba.web.fc2.com), Japan (2016-2019, 2021-now)
+- Regular member at the University of Tsukuba Tokimeki Taiko Juku [Instagram](http://www.instagram.com/tokimeki_taikojuku), Japan (2016-2019, 2021-2022)
 - Sub-leader at the Fuugakazan Taiko [[Facebook](https://www.facebook.com/fuugakazantaikooficial/)][[Instagram](https://www.instagram.com/fuugakazantaiko/)], Brazil (2009-2012). Regular member (2013-2016)
-- Regular member at the Cal Raijin Taiko [Instagram](https://www.instagram.com/calraijintaiko/), USA (2013-2013)
+- Regular member at the Cal Raijin Taiko [[Instagram]](https://www.instagram.com/calraijintaiko/), USA (2013-2013)
 - Regular member at the Fuugakzan Yosakoi Soran, Brazil (2010-2012)
