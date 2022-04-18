@@ -98,10 +98,12 @@ I used to work on many mechatronics related projects for classes as well as pers
 ### BoatCar - Amphibious RF Controlled Vehicle - University of California, Berkeley, USA (2012)
 - Creators: Erica K. Shimomoto, Jesse Adam Machado, Dennis Manhart, Tony Lei and Xianhan Liu
 - 1:5 RF Controlled vehicle that could move from water to ground and vice versa. Final project for the ME102B course of the Unversity of California at Berkeley, Fall 2012.
+- Video: [YouTube](https://www.youtube.com/watch?v=s2naPCDFQ4A)
 
 ### JigSaw - University of California, Berkeley, USA (2012)
 - Creators: Erica K. Shimomoto, Thomas Yun
 - Robotic Arm capable of solving jigsaw puzzles, guided by a vision system (control and vision systems developed in Matlab). Final project for the EE125 course of the University of California at Berkeley, Fall 2012.
+- Video: [YouTube](https://www.youtube.com/watch?v=mvjBd-Ec6vY)
 
 ### Virtual Laboratory for Physics Teaching, Amazonas State University, Brazil (2009-2012)
 - Creators: Erica K. Shimomoto, José Luiz Nunes de Mello (supervisor)
@@ -110,6 +112,7 @@ I used to work on many mechatronics related projects for classes as well as pers
 ### JALLE'S - Palletizer Automaton Arm, Fundação Nokia de Ensino, Brazil (2008)
 - Creators: Erica K. Shimomoto, Adria Brito, Laion Nogueira, Luma Pantoja, Leandro Forte (supervisor)
 - Palletizer Automaton Arm. Separates objects into different pallets based on the object color, guided by a vision system (developed in C). Final project for the technical course in Mechatronics at Fundação Nokia de Ensino.
+- Video (Warning: Really cringe early 2010 editing!): [YouTube](https://www.youtube.com/watch?v=xpNNDFzb970)
 
 ## Miscellaneous [[top](#erica-kido-shimomoto)]
 ### Social activities (voluntary)
