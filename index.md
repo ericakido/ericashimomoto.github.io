@@ -1,6 +1,6 @@
 # Erica Kido Shimomoto
 
-e-mail: erica (at) cvlab.cs.tsukuba.ac.jp
+e-mail: kidoshimomoto.e (at) aist.go.jp
 
 I am a postdoctoral researcher at the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html), member of the [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/).
 
