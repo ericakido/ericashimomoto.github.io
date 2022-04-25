@@ -6,6 +6,8 @@ I am a postdoctoral researcher at the Artificial Intelligence Research Center (A
 
 My research topics involve natural language processing, computer vision and pattern recognition. More specifically, my main line of study is the investigation of subspace based-methods and its applications on word embedding. Recently, I have started to dive into the multimodal world, trying to develop less data-hungry model and/or reduce the such computational need of existing models.
 
+I give a brief explanation in the following video: [[YouTube](https://www.youtube.com/watch?v=u-SfMdq5hpA)]
+
 I love seeing computers doing human jobs really well. However, I am even more interested in understanding how they can do such jobs so well. If you cannot understand it, how can you trust it?
 
 I also enjoy developing applications involving robotics and electronics.
@@ -29,7 +31,7 @@ I also enjoy developing applications involving robotics and electronics.
 * This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6.
 
 ### International Conferences
-1. E Shimomoto, L Souza, B Gatto, K Fukui, News2meme: An Automatic Content Generator from News Based on Word Subspaces from Text and Image (MVA2019). [[pdf](https://www.researchgate.net/publication/333105226_News2meme_An_Automatic_Content_Generator_from_News_Based_on_Word_Subspaces_from_Text_and_Image)][pdf](http://www.mva-org.jp/Proceedings/2019/papers/05-14.pdf)]
+1. E Shimomoto, L Souza, B Gatto, K Fukui, News2meme: An Automatic Content Generator from News Based on Word Subspaces from Text and Image (MVA2019). [[pdf](https://www.researchgate.net/publication/333105226_News2meme_An_Automatic_Content_Generator_from_News_Based_on_Word_Subspaces_from_Text_and_Image)][[pdf](http://www.mva-org.jp/Proceedings/2019/papers/05-14.pdf)][[code](https://github.com/ericashimomoto/news2meme)]
 2. E Shimomoto, L Souza, B Gatto, K Fukui, Text Classification based on Word Subspace with Term-Frequency (IJCNN18). [[pdf](https://arxiv.org/abs/1806.03125)][[pdf](https://ieeexplore.ieee.org/abstract/document/8489458)]
 3. E Shimomoto, A Kimura, R Belém, A faster face detection method combining Bayesian and Haar Cascade Classifiers (Chilecon15). [[pdf](https://ieeexplore.ieee.org/document/7400344)][[pdf](https://www.researchgate.net/publication/304408380_A_faster_face_detection_method_combining_Bayesian_and_Haar_Cascade_Classifiers)]
 
