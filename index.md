@@ -2,7 +2,7 @@
 
 e-mail: kidoshimomoto.e (at) aist.go.jp
 
-I am a postdoctoral researcher at the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html), member of the [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/).
+I am a postdoctoral researcher at the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html), member of the [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/)).
 
 My research topics involve natural language processing, computer vision and pattern recognition. More specifically, my main line of study is the investigation of subspace based-methods and its applications on word embedding. Recently, I have started to dive into the multimodal world, trying to develop less data-hungry model and/or reduce the computational need of existing models.
 
