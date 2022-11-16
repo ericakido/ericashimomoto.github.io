@@ -38,7 +38,7 @@ I also enjoy developing applications involving robotics and electronics.
     In *Proceedings of the The First Unimodal and Multimodal Induction of Linguistic Structures Workshop (to appear)*, December, 2022.
 * Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, Hideki Nakayama, and Yusuke Miyao \
-    2022. \
+    2022.\
     [[Preprint](https://arxiv.org/abs/2209.13359)]
 * [News2meme: An Automatic Content Generator from News Based on Word Subspaces from Text and Image](http://www.mva-org.jp/Proceedings/2019/papers/05-14.pdf)\
     Erica K. Shimomoto, Lincon S Souza, Bernardo B. Gatto, Kazuhiro Fukui\
@@ -134,6 +134,7 @@ I used to work on many mechatronics related projects for classes as well as pers
 ### Online Content Creation
 - YouTube channel [S4dako](https://www.youtube.com/c/s4dako), since 2015\
     I upload videos talking about my experience with the MEXT scholarship, and about my life in Japan as an international student and worker.
+    
 ### Voluntary activities
 - Facilitator at the "Toward the realization of dreams through education and career" Workshop, Tsukuba, Japan (2017, 2018 and 2020 editions). Promoted discussion among Brazilian high school students about future education and career options. 
 
