@@ -63,6 +63,7 @@ I also enjoy developing applications involving robotics and electronics.
 
 ## Work Experience [[top](#erica-kido-shimomoto)]
 - 2022.04 - current: Postdoctoral researcher at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
+- 2022.11 - 2023.01: Teaching Assistant at the University of Tokyo for the Introduction to Machine Learning class.
 - 2021.04 - 2022.03: Research Assistant at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2021.01 - 2021.03: Technical Staff at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2018 - 2020: Teaching Assistant at the University of Tsukuba for the following classes:
