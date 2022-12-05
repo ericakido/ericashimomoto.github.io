@@ -53,6 +53,9 @@ I also enjoy developing applications involving robotics and electronics.
     In *Proceedings of the 2015 CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies*, Santiago, Chile, October, 2015.\
     [[pdf](https://www.researchgate.net/publication/304408380_A_faster_face_detection_method_combining_Bayesian_and_Haar_Cascade_Classifiers)]
 
+### Ph.D. Thesis
+* Subspace Representation for Natural Language Processing. Department of Computer Science, University of Tsukuba, Doctor of Engineering, 2022.03 (Advisor: Kazuhiro Fukui) [[Thesis paper](https://irdb.nii.ac.jp/00843/0005635730)]
+
 ## Education [[top](#erica-kido-shimomoto)]
 - 2019 - 2022: Doctorate degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
 - 2017 - 2019: Master's degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
