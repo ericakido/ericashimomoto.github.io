@@ -27,7 +27,7 @@ I also enjoy developing applications involving robotics and electronics.
 ## Publications [[top](#erica-kido-shimomoto)]
 
 ### Ph.D. Thesis
-* Subspace Representation for Natural Language Processing. Department of Computer Science, University of Tsukuba, Doctor of Engineering, 2022.03 (Advisor: Kazuhiro Fukui) [[Thesis paper](https://irdb.nii.ac.jp/00843/0005635730)]
+* Subspace Representation for Natural Language Processing. Department of Computer Science, University of Tsukuba, Doctor of Philosophy in Engineering, 2022.03 (Advisor: Kazuhiro Fukui) [[Thesis paper](https://irdb.nii.ac.jp/00843/0005635730)]
 
 ### Journals
 * [Text classification based on the word subspace representation](https://drive.google.com/file/d/1oB5qLfs1TbhQrNRM7q-KdEmtPvXVdgrZ/view)\
