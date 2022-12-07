@@ -39,6 +39,7 @@ I also enjoy developing applications involving robotics and electronics.
 * A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, and Yusuke Miyao \
     In *Proceedings of the The First Unimodal and Multimodal Induction of Linguistic Structures Workshop (to appear)*, December, 2022.
+    [[Slides](https://www.dropbox.com/s/1l3dfbtvahbwx3r/UM-IoS-2022.pdf?dl=0)]
 * Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, Hideki Nakayama, and Yusuke Miyao \
     2022.\
