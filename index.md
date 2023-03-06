@@ -36,14 +36,10 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ### International Conferences
-* A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval \
+* [A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval](https://aclanthology.org/2022.umios-1.4/) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, and Yusuke Miyao \
     In *Proceedings of the The First Unimodal and Multimodal Induction of Linguistic Structures Workshop*, December, 2022.
-    [[Slides](https://www.dropbox.com/s/1l3dfbtvahbwx3r/UM-IoS-2022.pdf?dl=0)][[pdf](https://aclanthology.org/2022.umios-1.4/)]
-* Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding \
-    Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, Hideki Nakayama, and Yusuke Miyao \
-    2022.\
-    [[Preprint](https://arxiv.org/abs/2209.13359)]
+    [[Slides](https://www.dropbox.com/s/1l3dfbtvahbwx3r/UM-IoS-2022.pdf?dl=0)]
 * [News2meme: An Automatic Content Generator from News Based on Word Subspaces from Text and Image](http://www.mva-org.jp/Proceedings/2019/papers/05-14.pdf)\
     Erica K. Shimomoto, Lincon S Souza, Bernardo B. Gatto, Kazuhiro Fukui\
     In *Proceedings of the International Conference on Machine Vision Applications 2019*, Tokyo, Japan, May, 2019.\
@@ -56,6 +52,17 @@ I also enjoy developing applications involving robotics and electronics.
     Erica K. Shimomoto, Almir Kimura, Ruan Belem \
     In *Proceedings of the 2015 CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies*, Santiago, Chile, October, 2015.\
     [[pdf](https://www.researchgate.net/publication/304408380_A_faster_face_detection_method_combining_Bayesian_and_Haar_Cascade_Classifiers)]
+
+### Domestic Conferences (Japan)
+* [Subspace representation for text classification with limited training data](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P7-4.pdf) \
+    Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, and Yusuke Miyao \
+    In *言語処理学会 第29回年次大会 発表論文集*, March, 2023.
+
+### Pre-prints
+* Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding \
+    Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, Hideki Nakayama, and Yusuke Miyao \
+    2022.\
+    [[Preprint](https://arxiv.org/abs/2209.13359)]
 
 ## Education [[top](#erica-kido-shimomoto)]
 - 2019 - 2022: Doctorate degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
