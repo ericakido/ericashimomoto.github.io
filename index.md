@@ -36,6 +36,10 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ### International Conferences
+* Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding \
+    Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, Hideki Nakayama, and Yusuke Miyao \
+    In *Findings of the 61st Annual Meeting of the Association for Computational Linguistics*, (to appear) 2023.\
+    [[Preprint](https://arxiv.org/abs/2209.13359)]
 * [A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval](https://aclanthology.org/2022.umios-1.4/) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, and Yusuke Miyao \
     In *Proceedings of the The First Unimodal and Multimodal Induction of Linguistic Structures Workshop*, December, 2022.
@@ -57,12 +61,6 @@ I also enjoy developing applications involving robotics and electronics.
 * [Subspace representation for text classification with limited training data](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P7-4.pdf) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, and Yusuke Miyao \
     In *言語処理学会 第29回年次大会 発表論文集*, March, 2023.
-
-### Pre-prints
-* Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding \
-    Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, Hideki Nakayama, and Yusuke Miyao \
-    2022.\
-    [[Preprint](https://arxiv.org/abs/2209.13359)]
 
 ## Education [[top](#erica-kido-shimomoto)]
 - 2019 - 2022: Doctorate degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
