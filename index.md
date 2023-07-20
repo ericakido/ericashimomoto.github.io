@@ -36,9 +36,9 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ### International Conferences
-* Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding \
+* [Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding](https://aclanthology.org/2023.findings-acl.829/) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, Hideki Nakayama, and Yusuke Miyao \
-    In *Findings of the 61st Annual Meeting of the Association for Computational Linguistics*, (to appear) 2023.\
+    In *Findings of the 61st Annual Meeting of the Association for Computational Linguistics*, 2023.\
     [[Preprint](https://arxiv.org/abs/2209.13359)]
 * [A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval](https://aclanthology.org/2022.umios-1.4/) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, and Yusuke Miyao \
