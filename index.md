@@ -39,7 +39,7 @@ I also enjoy developing applications involving robotics and electronics.
 * [Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding](https://aclanthology.org/2023.findings-acl.829/) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, Hideki Nakayama, and Yusuke Miyao \
     In *Findings of the 61st Annual Meeting of the Association for Computational Linguistics*, 2023.\
-    [[Preprint](https://arxiv.org/abs/2209.13359)]
+    [[Preprint](https://arxiv.org/abs/2209.13359)][[Slides](https://www.dropbox.com/s/44vcoj3vyap76lf/ACL2023_Erica_WS.pdf?dl=0)][[Video](https://www.dropbox.com/s/zbb2voofud8rynj/ACL2023_Erica_WS.mp4?dl=0)]
 * [A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval](https://aclanthology.org/2022.umios-1.4/) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, and Yusuke Miyao \
     In *Proceedings of the The First Unimodal and Multimodal Induction of Linguistic Structures Workshop*, December, 2022.
