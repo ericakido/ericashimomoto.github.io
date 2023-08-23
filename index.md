@@ -30,6 +30,9 @@ I also enjoy developing applications involving robotics and electronics.
 * Subspace Representation for Natural Language Processing. Department of Computer Science, University of Tsukuba, Doctor of Philosophy in Engineering, 2022.03 (Advisor: Kazuhiro Fukui) [[Thesis paper](https://irdb.nii.ac.jp/00843/0005635730)]
 
 ### Journals
+* A Video Representation Based on Slow Feature Analysis for Action Recognition\
+    Suzana Rita Alves Beleza, Erica K. Shimomoto, Lincon S. Souza, Kazuhiro Fukui\
+    Accepted for publication at *Machine Learning with Applications*, 2023.
 * [Text classification based on the word subspace representation](https://drive.google.com/file/d/1oB5qLfs1TbhQrNRM7q-KdEmtPvXVdgrZ/view)\
     Erica K. Shimomoto, François Portet, Kazuhiro Fukui\
     *Pattern Analysis and Applications*, 2021. \
