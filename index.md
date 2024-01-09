@@ -39,6 +39,9 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ### International Conferences
+* Sign language recognition based on subspace representations in the spatio-temporal frequency domain \
+    Ryota Sato, Suzana Rita Alves Beleza, Erica K. Shimomoto, Matheus Silva de Lima, Nobuko Kato, Kazuhiro Fukui (kfukui@cs.tsukuba.ac.jp) \
+    To appear at the Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods (ICPRAM), 2024.
 * [Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding](https://aclanthology.org/2023.findings-acl.829/) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, Hideki Nakayama, and Yusuke Miyao \
     In *Findings of the 61st Annual Meeting of the Association for Computational Linguistics*, 2023.\
