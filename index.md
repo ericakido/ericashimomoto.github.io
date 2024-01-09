@@ -40,7 +40,7 @@ I also enjoy developing applications involving robotics and electronics.
 
 ### International Conferences
 * Sign language recognition based on subspace representations in the spatio-temporal frequency domain \
-    Ryota Sato, Suzana Rita Alves Beleza, Erica K. Shimomoto, Matheus Silva de Lima, Nobuko Kato, Kazuhiro Fukui (kfukui@cs.tsukuba.ac.jp) \
+    Ryota Sato, Suzana Rita Alves Beleza, Erica K. Shimomoto, Matheus Silva de Lima, Nobuko Kato, Kazuhiro Fukui \
     To appear at the Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods (ICPRAM), 2024.
 * [Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding](https://aclanthology.org/2023.findings-acl.829/) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, Hideki Nakayama, and Yusuke Miyao \
