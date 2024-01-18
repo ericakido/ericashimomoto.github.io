@@ -16,10 +16,9 @@ I also enjoy developing applications involving robotics and electronics.
 - [Publications](#publications-top)
 - [Education](#education-top)
 - [Work Experience](#work-experience-top)
-- [Research Fundings](#research-fundings-top)
 - [Academic events organization](#academic-events-organization-top)
-- [Awards](#awards-top)
-- [Honors](#honors-top)
+- [Grants and Awards](#grants-and-awards-top)
+- [Invited Talks](#invited-talks-top)
 - [Language Proficiency](#language-proficiency-top)
 - [Mechatronics Projects](#mechatronics-projects-top)
 - [Miscellaneous](#miscellaneous-top)
@@ -48,7 +47,7 @@ I also enjoy developing applications involving robotics and electronics.
     [[Preprint](https://arxiv.org/abs/2209.13359)][[Slides](https://www.dropbox.com/s/44vcoj3vyap76lf/ACL2023_Erica_WS.pdf?dl=0)][[Video](https://www.dropbox.com/s/zbb2voofud8rynj/ACL2023_Erica_WS.mp4?dl=0)][[Code](https://github.com/ericashimomoto/parameter-efficient-tvg)]
 * [A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval](https://aclanthology.org/2022.umios-1.4/) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, and Yusuke Miyao \
-    In *Proceedings of the The First Unimodal and Multimodal Induction of Linguistic Structures Workshop*, December, 2022.
+    In *Proceedings of The Workshop on Unimodal and Multimodal Induction of Linguistic Structures Workshop*, December, 2022.
     [[Slides](https://www.dropbox.com/s/1l3dfbtvahbwx3r/UM-IoS-2022.pdf?dl=0)]
 * [News2meme: An Automatic Content Generator from News Based on Word Subspaces from Text and Image](http://www.mva-org.jp/Proceedings/2019/papers/05-14.pdf)\
     Erica K. Shimomoto, Lincon S Souza, Bernardo B. Gatto, Kazuhiro Fukui\
@@ -78,6 +77,7 @@ I also enjoy developing applications involving robotics and electronics.
 
 ## Work Experience [[top](#erica-kido-shimomoto)]
 - 2022.04 - current: Postdoctoral researcher at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
+- 2023.12 - 2024.02: Teaching Assistant at the University of Tokyo for the Introduction to Machine Learning class.
 - 2022.11 - 2023.01: Teaching Assistant at the University of Tokyo for the Introduction to Machine Learning class.
 - 2021.04 - 2022.03: Research Assistant at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2021.01 - 2021.03: Technical Staff at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
@@ -92,29 +92,32 @@ I also enjoy developing applications involving robotics and electronics.
 - 2015 - 2016: Research Assistant at Innovation Center in Control and Automation (CICARI) - Brazil.
 - 2013 - 2014: Research and development intern at Envision Industry of Electronic Products LTDA - Brazil.
 
-## Research Fundings [[top](#erica-kido-shimomoto)]
-- "Context change detection in diary data for mental health care based on the word subspace representation", Young Researcher Training Program for the Degree Programs in Systems and Information Engineering ([システム情報工学研究科若手研究者育成プログラム](https://www.sie.tsukuba.ac.jp/edu/re_program/)), University of Tsukuba, 181000JPY, 2020.9.1-2021.3.31
-
 ## Academic events organization [[top](#erica-kido-shimomoto)]
 - Organization committee member for the [2021 CollaboTICS](https://collabotics2021.github.io/index.html), a collaborative workshop among the University of Tsukuba (Japan), University of Grenoble-Alpes (France) and the Ruhr-Universität Bochum (Germany).
 - Program chair for the [2020 UGA & UT Workshop](https://uga-ut-ws.github.io/index.html), a collaborative workshop between the University of Tsukuba (Japan) and the University of Grenoble-Alpes (France).
 
-## Awards [[top](#erica-kido-shimomoto)]
+## Grants and Awards [[top](#erica-kido-shimomoto)]
 - [Committee Special Award](https://www.anlp.jp/nlp2023/award.html#committee) for the paper ["Subspace representation for text classification with limited training data"](#domestic-conferences-japan), at the NLP2023, Japan.
 - Dean award for research excellence by the University of Tsukuba, 2022, Japan.
 - Computer Science Special Award by the University of Tsukuba, for the organization of the [2021 CollaboTICS Workshop](#academic-events-organization-top), 2022, Japan.
 - Computer Science Special Award by the University of Tsukuba, for the organization of the [2020 UGA & UT Workshop](#academic-events-organization-top), 2021, Japan.
+- "Context change detection in diary data for mental health care based on the word subspace representation", Young Researcher Training Program for the Degree Programs in Systems and Information Engineering ([システム情報工学研究科若手研究者育成プログラム](https://www.sie.tsukuba.ac.jp/edu/re_program/)), University of Tsukuba, 181000JPY, 2020.9.1-2021.3.31
 - Best Poster Award for the paper titled ["News2meme: An Automatic Content Generator from News Based on Word Subspaces from Text and Image"](#international-conferences), at the IAPR MVA 2019, Japan.
-- FEBRACE (Brazilian Fair of Science and Engineering) award for the [second best project documentation](https://febrace.org.br/wp-content/uploads/2021/06/premiados2009.pdf) for the project titled [JALLE'S](#mechatronics-projects), at 7th [FEBRACE](https://febrace.org.br/), 2009, Brazil.
-
-## Honors [[top](#erica-kido-shimomoto)]
 - MEXT Scholarship Awarded by the Japanese Government (2016 - 2022).
 - National leader assistant of the Brazilian delegation in the [Ship for the World Youth Leaders](http://www.swyaabrasil.org) (SWY27) (2015).
 - Brazilian Government Science Without Borders Scholarship to study at the University of California in Berkeley, USA (2012-2013).
 - Research program PAIC grantee at the Amazonas State University, Brazil (2009-2012).
 - Bronze medal at the Amazonas Chemistry Olympiad, Brazil (2008).
 - Honorable Mention at the Brazilian Physics Olympiad, Brazil (2008).
+- FEBRACE (Brazilian Fair of Science and Engineering) award for the [second best project documentation](https://febrace.org.br/wp-content/uploads/2021/06/premiados2009.pdf) for the project titled [JALLE'S](#mechatronics-projects), at 7th [FEBRACE](https://febrace.org.br/), 2009, Brazil.
 
+## Invited Talks [[top](#erica-kido-shimomoto)]
+-  A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval \
+   Invited Talk at the Recent Trends in Computer Science and Artificial Intelligence [(CollaboTICS 2022)](https://collabotics2022.github.io/index.html), December, 2022.
+- Word subspace modeling of text data and its applications \
+   Erica K. Shimomoto \
+   Invited Talk at the [Knowledge and Information Research Team](https://aistairc.github.io/plu/index.html), Artificial Intelligence Research Center (AIRC), AIST, September, 2020.
+  
 ## Language Proficiency [[top](#erica-kido-shimomoto)]
 - Portuguese (native)
 - JLPT, N2 (2020)
