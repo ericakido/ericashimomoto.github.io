@@ -112,11 +112,21 @@ I also enjoy developing applications involving robotics and electronics.
 - FEBRACE (Brazilian Fair of Science and Engineering) award for the [second best project documentation](https://febrace.org.br/wp-content/uploads/2021/06/premiados2009.pdf) for the project titled [JALLE'S](#mechatronics-projects), at 7th [FEBRACE](https://febrace.org.br/), 2009, Brazil.
 
 ## Invited Talks [[top](#erica-kido-shimomoto)]
--  A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval \
-   Invited Talk at the Recent Trends in Computer Science and Artificial Intelligence [(CollaboTICS 2022)](https://collabotics2022.github.io/index.html), December, 2022.
-- Word subspace modeling of text data and its applications \
-   Erica K. Shimomoto \
-   Invited Talk at the [Knowledge and Information Research Team](https://aistairc.github.io/plu/index.html), Artificial Intelligence Research Center (AIRC), AIST, September, 2020.
+- Invited Talk at Grandes Temas, an on-line talk series organized by the Academia STEM - UEA, 2023.07.05. \
+  Title: Academic Career abroad.
+- Invited Talk at the Recent Trends in Computer Science and Artificial Intelligence [(CollaboTICS 2022)](https://collabotics2022.github.io/index.html), 2022.12.16. \
+  Title: A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval.
+- Invited Talk at Code Talk, an on-line talk series organized by the Centro Acadêmico de Ciência da Computação (Computer Science Academic Center) - FCT/UNESP, 2022.12.22 \
+  Title: Academic Career - From undergrad to grad school.
+- Invited to the Round table: Engineering and Sciences of nature (Exact Sciences) at the 2021 Study in Japan Latin America Fair - FIEJ LATAM, 2021.02.25.
+- Invited Talk at the following webminars of the 2020 Study in Japan Latin America:
+    - The Student Life in Japan, 2020.11.4
+    - The Scholarships of Japan, 2020.11.5
+- Invited Talk at the [Knowledge and Information Research Team](https://aistairc.github.io/plu/index.html), Artificial Intelligence Research Center (AIRC), AIST, 2020.09.29. \
+  Title: Word subspace modeling of text data and its applications.
+- Invited Talk at the Rakuten Institute of Technology, 2019.06.28
+- Research Talk: News2meme: An Automatic Content Generator from News Based on Word Subspaces from Text and Image \
+  
   
 ## Language Proficiency [[top](#erica-kido-shimomoto)]
 - Portuguese (native)
