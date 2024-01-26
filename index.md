@@ -38,6 +38,9 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ### International Conferences
+* Framework for Measuring the Similarity of Visual and Semantic Structures in Sign Languages \
+    Matheus Silva de Lima, Ryota Sato, Erica K. Shimomoto, Suzana Rita Alves Beleza, Nobuko Kato and Kazuhiro Fukui \
+    To appear at the Proceedings of the 30th International Workshop on Frontiers of Computer Vision (IW-FCV2024).
 * Sign language recognition based on subspace representations in the spatio-temporal frequency domain \
     Ryota Sato, Suzana Rita Alves Beleza, Erica K. Shimomoto, Matheus Silva de Lima, Nobuko Kato, Kazuhiro Fukui \
     To appear at the Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods (ICPRAM), 2024.
@@ -107,9 +110,9 @@ I also enjoy developing applications involving robotics and electronics.
 - National leader assistant of the Brazilian delegation in the [Ship for the World Youth Leaders](http://www.swyaabrasil.org) (SWY27) (2015).
 - Brazilian Government Science Without Borders Scholarship to study at the University of California in Berkeley, USA (2012-2013).
 - Research program PAIC grantee at the Amazonas State University, Brazil (2009-2012).
+- FEBRACE (Brazilian Fair of Science and Engineering) award for the [second-best project documentation](https://febrace.org.br/wp-content/uploads/2021/06/premiados2009.pdf) for the project titled [JALLE'S](#mechatronics-projects), at 7th [FEBRACE](https://febrace.org.br/), 2009, Brazil.
 - Bronze medal at the Amazonas Chemistry Olympiad, Brazil (2008).
 - Honorable Mention at the Brazilian Physics Olympiad, Brazil (2008).
-- FEBRACE (Brazilian Fair of Science and Engineering) award for the [second best project documentation](https://febrace.org.br/wp-content/uploads/2021/06/premiados2009.pdf) for the project titled [JALLE'S](#mechatronics-projects), at 7th [FEBRACE](https://febrace.org.br/), 2009, Brazil.
 
 ## Invited Talks [[top](#erica-kido-shimomoto)]
 - Invited Talk at Grandes Temas, an on-line talk series organized by the Academia STEM - UEA, 2023.07.05. \
