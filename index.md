@@ -100,6 +100,7 @@ I also enjoy developing applications involving robotics and electronics.
 - Program chair for the [2020 UGA & UT Workshop](https://uga-ut-ws.github.io/index.html), a collaborative workshop between the University of Tsukuba (Japan) and the University of Grenoble-Alpes (France).
 
 ## Grants and Awards [[top](#erica-kido-shimomoto)]
+- [Excellent Student Research Paper Award](https://sites.google.com/view/iw-fcv2024/awards) for the paper [Framework for Measuring the Similarity of Visual and Semantic Structures in Sign Languages](#international-conferences), at the IW-FCV2024.
 - [Committee Special Award](https://www.anlp.jp/nlp2023/award.html#committee) for the paper ["Subspace representation for text classification with limited training data"](#domestic-conferences-japan), at the NLP2023, Japan.
 - Dean award for research excellence by the University of Tsukuba, 2022, Japan.
 - Computer Science Special Award by the University of Tsukuba, for the organization of the [2021 CollaboTICS Workshop](#academic-events-organization-top), 2022, Japan.
