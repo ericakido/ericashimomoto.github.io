@@ -41,9 +41,9 @@ I also enjoy developing applications involving robotics and electronics.
 * Framework for Measuring the Similarity of Visual and Semantic Structures in Sign Languages \
     Matheus Silva de Lima, Ryota Sato, Erica K. Shimomoto, Suzana Rita Alves Beleza, Nobuko Kato and Kazuhiro Fukui \
     To appear at the Proceedings of the 30th International Workshop on Frontiers of Computer Vision (IW-FCV2024).
-* Sign language recognition based on subspace representations in the spatio-temporal frequency domain \
+* [Sign language recognition based on subspace representations in the spatio-temporal frequency domain](https://www.scitepress.org/PublicationsDetail.aspx?ID=7wj/vxuRncc=&t=1) \
     Ryota Sato, Suzana Rita Alves Beleza, Erica K. Shimomoto, Matheus Silva de Lima, Nobuko Kato, Kazuhiro Fukui \
-    To appear at the Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods (ICPRAM), 2024.
+    In Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods - ICPRAM, 2024.
 * [Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding](https://aclanthology.org/2023.findings-acl.829/) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, Hideki Nakayama, and Yusuke Miyao \
     In *Findings of the 61st Annual Meeting of the Association for Computational Linguistics*, 2023.\
