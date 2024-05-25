@@ -38,6 +38,10 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ### International Conferences
+* An empirical study of Definition Modeling with LLMs for the main languages of Latin America \
+    Erica K. Shimomoto\*, Edison Marrese-Taylor\*, Enrique Reid \
+    \* Authors contributed equally to this work. \
+    Accepted at the LatinX in Natural Language Processing Research Workshop at NAACL 2024.
 * Framework for Measuring the Similarity of Visual and Semantic Structures in Sign Languages \
     Matheus Silva de Lima, Ryota Sato, Erica K. Shimomoto, Suzana Rita Alves Beleza, Nobuko Kato and Kazuhiro Fukui \
     To appear at the Proceedings of the 30th International Workshop on Frontiers of Computer Vision (IW-FCV2024).
