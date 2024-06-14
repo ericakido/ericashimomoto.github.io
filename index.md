@@ -41,7 +41,8 @@ I also enjoy developing applications involving robotics and electronics.
 * An empirical study of Definition Modeling with LLMs for the main languages of Latin America \
     Erica K. Shimomoto\*, Edison Marrese-Taylor\*, Enrique Reid \
     \* Authors contributed equally to this work. \
-    Accepted at the LatinX in Natural Language Processing Research Workshop at NAACL 2024.
+    Accepted at the LatinX in Natural Language Processing Research Workshop at NAACL 2024. \
+    [[Slides](https://www.dropbox.com/scl/fi/fo0vjjlenlvrjpg5qjzvh/11-EricaKidoShimomoto.pdf?rlkey=xfgvlsbifr4r4f51b3qqiooof&st=gwroz1ua&dl=0)]
 * Framework for Measuring the Similarity of Visual and Semantic Structures in Sign Languages \
     Matheus Silva de Lima, Ryota Sato, Erica K. Shimomoto, Suzana Rita Alves Beleza, Nobuko Kato and Kazuhiro Fukui \
     To appear at the Proceedings of the 30th International Workshop on Frontiers of Computer Vision (IW-FCV2024).
