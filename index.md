@@ -43,9 +43,9 @@ I also enjoy developing applications involving robotics and electronics.
     \* Authors contributed equally to this work. \
     Accepted at the LatinX in Natural Language Processing Research Workshop at NAACL 2024. \
     [[Slides](https://www.dropbox.com/scl/fi/fo0vjjlenlvrjpg5qjzvh/11-EricaKidoShimomoto.pdf?rlkey=xfgvlsbifr4r4f51b3qqiooof&st=gwroz1ua&dl=0)]
-* Framework for Measuring the Similarity of Visual and Semantic Structures in Sign Languages \
+* [Framework for Measuring the Similarity of Visual and Semantic Structures in Sign Languages](https://link.springer.com/chapter/10.1007/978-981-97-4249-3_8) \
     Matheus Silva de Lima, Ryota Sato, Erica K. Shimomoto, Suzana Rita Alves Beleza, Nobuko Kato and Kazuhiro Fukui \
-    To appear at the Proceedings of the 30th International Workshop on Frontiers of Computer Vision (IW-FCV2024).
+    In Proceedings of the 30th International Workshop on Frontiers of Computer Vision (IW-FCV2024).
 * [Sign language recognition based on subspace representations in the spatio-temporal frequency domain](https://www.scitepress.org/PublicationsDetail.aspx?ID=7wj/vxuRncc=&t=1) \
     Ryota Sato, Suzana Rita Alves Beleza, Erica K. Shimomoto, Matheus Silva de Lima, Nobuko Kato, Kazuhiro Fukui \
     In Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods - ICPRAM, 2024.
