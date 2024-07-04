@@ -74,8 +74,8 @@ I also enjoy developing applications involving robotics and electronics.
 * [Zero-shot Definition Modelling for Portuguese](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-12.pdf) \
     Edison Marrese-Taylor, Erica K. Shimomoto, Erique Reid \
     In *言語処理学会 第30回年次大会 発表論文集*, March, 2024.
-* [Sign language recognition based on subspace representations in the spatio-temporal frequency domain](https://ken.ieice.org/ken/paper/20240303ccbu/eng/)
-    Ryota Sato, Suzana Rita Alves Beleza, Erica Kido Shimomoto, Matheus Silva de Lima, Nobuko Kato, Kazuhiro Fukui
+* [Sign language recognition based on subspace representations in the spatio-temporal frequency domain](https://ken.ieice.org/ken/paper/20240303ccbu/eng/) \
+    Ryota Sato, Suzana Rita Alves Beleza, Erica K. Shimomoto, Matheus Silva de Lima, Nobuko Kato, Kazuhiro Fukui
     In PRMU2024 講演論文, vol.123, no.409, pp.19-24, March, 2024.
 * [Subspace representation for text classification with limited training data](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P7-4.pdf) \
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, and Yusuke Miyao \
