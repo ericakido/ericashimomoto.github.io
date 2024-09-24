@@ -38,6 +38,10 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/350020381_Text_classification_based_on_the_word_subspace_representation)] (This is a post-peer-review, pre-copyedit version of an article published in the Journal of Pattern Analysis and Applications. The final authenticated version is available online at http://dx.doi.org/10.1007/s10044-021-00960-6).
 
 ### International Conferences
+* Introducing Spatial Information and a Novel Evaluation Scheme for Open-Domain Live Commentary Generation \
+    Erica K. Shimomoto\*, Edison Marrese-Taylor\*, Ichiro Kobayashi, Hiroya Takamura and Yusuke Miyao \
+    \* Authors contributed equally to this work. \
+    Accepted to *Findings of the 2024 Conference on Empirical Methods in Natural Language Processing*, 2024.
 * [An empirical study of Definition Modeling with LLMs for the main languages of Latin America](https://research.latinxinai.org/papers/naacl/2024/pdf/Erica_Shimomoto.pdf) \
     Erica K. Shimomoto\*, Edison Marrese-Taylor\*, Enrique Reid \
     \* Authors contributed equally to this work. \
@@ -127,6 +131,8 @@ I also enjoy developing applications involving robotics and electronics.
 - Honorable Mention at the Brazilian Physics Olympiad, Brazil (2008).
 
 ## Invited Talks [[top](#erica-kido-shimomoto)]
+- Invited Talk at JICA, Jordan: AI Research and Development in Japan, AIRC, 2024.09.12. \
+  Title: Recent Trends on LLMs.
 - Invited Talk at Grandes Temas, an on-line talk series organized by the Academia STEM - UEA, 2023.07.05. \
   Title: Academic Career abroad.
 - Invited Talk at the Recent Trends in Computer Science and Artificial Intelligence [(CollaboTICS 2022)](https://collabotics2022.github.io/index.html), 2022.12.16. \
