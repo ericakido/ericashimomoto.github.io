@@ -2,7 +2,7 @@
 
 e-mail: kidoshimomoto.e (at) aist.go.jp
 
-I am a postdoctoral researcher at the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html), member of the [Knowledge and Information Research Team](https://aistairc.github.io/plu/index.html)).
+I am a researcher at the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology ([AIST](https://www.aist.go.jp/index_en.html), member of the [Knowledge and Information Research Team](https://aistairc.github.io/plu/index.html)).
 
 My research topics involve natural language processing, computer vision and pattern recognition. More specifically, my main line of study is the investigation of subspace based-methods and its applications on word embedding. Recently, I have started to dive into the multimodal world, trying to develop less data-hungry model and/or reduce the computational need of existing models.
 
@@ -94,7 +94,8 @@ I also enjoy developing applications involving robotics and electronics.
 - 2006 - 2008: Technical course in Mechatronics. [Fundação Matias Machline (former Fundação Nokia de Ensino)](https://www.fundacaomatiasmachline.org.br/).
 
 ## Work Experience [[top](#erica-kido-shimomoto)]
-- 2022.04 - current: Postdoctoral researcher at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
+- 2024.10 - Now: Researcher at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
+- 2022.04 - 2024.09: Postdoctoral researcher at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
 - 2023.12 - 2024.02: Teaching Assistant at the University of Tokyo for the Introduction to Machine Learning class.
 - 2022.11 - 2023.01: Teaching Assistant at the University of Tokyo for the Introduction to Machine Learning class.
 - 2021.04 - 2022.03: Research Assistant at [Knowledge and Information Research Team](https://aistairc.github.io/plu/), Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST).
