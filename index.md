@@ -75,6 +75,12 @@ I also enjoy developing applications involving robotics and electronics.
     [[pdf](https://www.researchgate.net/publication/304408380_A_faster_face_detection_method_combining_Bayesian_and_Haar_Cascade_Classifiers)]
 
 ### Domestic Conferences (Japan)
+* Towards Automated Detection of Hype in Biomedical Research \
+    Bojan Batalo, Erica K. Shimomoto and Neil Millar \
+    To appear in *言語処理学会 第31回年次大会 発表論文集*.
+* Data Augmentation for Open-Domain Live Commentary Generation \
+    Erica K. Shimomoto, Edison Marrese-Taylor, Ichiro Kobayashi, Hiroya Takamura, and Yusuke Miyao \
+    To appear in *言語処理学会 第31回年次大会 発表論文集*.
 * [Zero-shot Definition Modelling for Portuguese](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-12.pdf) \
     Edison Marrese-Taylor, Erica K. Shimomoto, Erique Reid \
     In *言語処理学会 第30回年次大会 発表論文集*, March, 2024.
@@ -85,6 +91,17 @@ I also enjoy developing applications involving robotics and electronics.
     Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, and Yusuke Miyao \
     In *言語処理学会 第29回年次大会 発表論文集*, March, 2023.
 
+### Pre-prints
+* [Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation](https://arxiv.org/abs/2412.07334) \
+    Pedro H. V. Valois, Lincon S. Souza, Erica K. Shimomoto, Kazuhiro Fukui \
+    arXiv, 2024.
+* [Towards Parameter-Efficient Integration of Pre-Trained Language Models In Temporal Video Grounding](https://arxiv.org/abs/2209.13359) \
+    Erica K. Shimomoto, Edison Marrese-Taylor, Hiroya Takamura, Ichiro Kobayashi, Hideki Nakayama, and Yusuke Miyao \
+    arXiv, 2023.
+* [Text Classification based on Word Subspace with Term-Frequency](https://arxiv.org/abs/1806.03125)\
+    Erica K. Shimomoto, Lincon S. Souza, Bernardo B. Gatto, Kazuhiro Fukui\
+    arXiv, 2018.
+    
 ## Education [[top](#erica-kido-shimomoto)]
 - 2019 - 2022: Doctorate degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
 - 2017 - 2019: Master's degree in Computer Science. University of Tsukuba, Japan, Graduate School of Systems and Information Engineering, Department of Computer Science. 
@@ -132,6 +149,8 @@ I also enjoy developing applications involving robotics and electronics.
 - Honorable Mention at the Brazilian Physics Olympiad, Brazil (2008).
 
 ## Invited Talks [[top](#erica-kido-shimomoto)]
+- Invited Talk at Research Program Benchmarking Visit - Universiti Teknologi Malaysia, AIRC, 2024.10.28 \
+  Title: Recent Trends on LLMs.
 - Invited Talk at JICA, Jordan: AI Research and Development in Japan, AIRC, 2024.09.12. \
   Title: Recent Trends on LLMs.
 - Invited Talk at Grandes Temas, an on-line talk series organized by the Academia STEM - UEA, 2023.07.05. \
